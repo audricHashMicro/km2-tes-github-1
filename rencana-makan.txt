@@ -1,6 +1,8 @@
 1. Sarapan
+    - nasi kuning
     - bubur ayam
 2. Makan siang
+    - sate kambing
     - nasi padang
 3. Makan malam
-    - nasi goreng
+    - sate ayam
