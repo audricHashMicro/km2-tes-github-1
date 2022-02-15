@@ -1,1 +1,1 @@
-# km2-tes-github-1
+Ini adalah repository github pertama.
